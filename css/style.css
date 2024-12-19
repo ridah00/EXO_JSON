@@ -1,1 +1,11 @@
-/*# sourceMappingURL=style.css.map */
+@import url("https://fonts.googleapis.com/css2?family=Faster+One&family=Kaushan+Script&family=Oswald:wght@200..700&display=swap");
+body #squad_title h1 {
+  font-family: "Faster One", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+body #super_cards div h2 {
+  font-family: "Faster One", serif;
+  font-weight: 400;
+  font-style: normal;
+}/*# sourceMappingURL=style.css.map */
